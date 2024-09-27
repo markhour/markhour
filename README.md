@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussain</h1>
 
-- 🔭 I’m currently working on **Building secure, off-grid communication channels 🛰️ using Meshtastic software.**
-
 - ⚡ Fun fact: **I also enjoy constructing intricate Lego sets 🧱 and playing video games 🎮.**
 
 
