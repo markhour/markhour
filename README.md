@@ -4,7 +4,7 @@
 
 
 <p align="left">
-  <!-- Add your social media links here -->
+  <!-- Add your social media links here --> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,12 +29,16 @@
   </a>
 </p>
 
+
+
+
+
 ## 💻 What I'm Working On:
 
 - **Users App (Java + Spring Boot)**: Building a program that implements a CRUD (Create, Read, Update, Delete) API over the web. Users have a name and an email address, stored in a map where the email is the key. The API exposes CRUD operations to manage user information over the web.
 - **Off-Grid Communication Project**: Developing secure, off-grid communication channels 🛰️ using Meshtastic software.
 
-  
+![image](https://github.com/user-attachments/assets/2cc0af38-c60a-4a26-afed-25abce87f40d)
 ## 🎮 Play a Fun Game!
 ...
 
