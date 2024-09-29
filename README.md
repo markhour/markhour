@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hussain</h1>
+<h1 align="center">Hello 👋, I'm Hussain</h1>
 
 - ⚡ Fun fact: **I also enjoy constructing intricate Lego sets 🧱 and playing video games 🎮.**
 
