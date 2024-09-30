@@ -1,6 +1,10 @@
 <h1 align="center">Hello 👋, I'm Hussain</h1>
 
 - ⚡ Fun fact: **I also enjoy constructing intricate Lego sets 🧱 and playing video games 🎮.**
+## 💻 What I'm Working On:
+
+- **Users App (Java + Spring Boot)**: Building a program that implements a CRUD (Create, Read, Update, Delete) API over the web. Users have a name and an email address, stored in a map where the email is the key. The API exposes CRUD operations to manage user information over the web.
+- **Off-Grid Communication Project**: Developing secure, off-grid communication channels 🛰️ using Meshtastic software.
 
 
 <p align="left">
@@ -31,12 +35,6 @@
 
 
 
-
-
-## 💻 What I'm Working On:
-
-- **Users App (Java + Spring Boot)**: Building a program that implements a CRUD (Create, Read, Update, Delete) API over the web. Users have a name and an email address, stored in a map where the email is the key. The API exposes CRUD operations to manage user information over the web.
-- **Off-Grid Communication Project**: Developing secure, off-grid communication channels 🛰️ using Meshtastic software.
 
 ![image](https://github.com/user-attachments/assets/2cc0af38-c60a-4a26-afed-25abce87f40d)
 ## 🎮 Play a Fun Game!
